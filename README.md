@@ -1,6 +1,6 @@
 # Projeto de uma pequena aplicação feita 100% com React
 
-- Aplicação que gera frases randomicas de sorte, ao apertar o botão;
+- Aplicação que gera frases randomicas de sorte, ao apertar o botão
 
 # Instalação completa do React, JSX com NPM
 
